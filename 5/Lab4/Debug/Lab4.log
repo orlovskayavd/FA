@@ -1,0 +1,13 @@
+﻿  Lab4.cpp
+C:\Users\Валентина\Desktop\5\Lab4\Lab4.cpp(154,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Валентина\Desktop\5\Lab4\Lab4.cpp(372,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Валентина\Desktop\5\Lab4\Lab4.cpp(373,46): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Валентина\Desktop\5\Lab4\Lab4.cpp(380,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Валентина\Desktop\5\Lab4\Lab4.cpp(381,52): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Валентина\Desktop\5\Lab4\Lab4.cpp(465,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Валентина\Desktop\5\Lab4\Lab4.cpp(478,19): warning C4101: carry: неиспользованная локальная переменная
+C:\Users\Валентина\Desktop\5\Lab4\Lab4.cpp(648,24): error C2556: void strrev(char *): перегруженная функция отличается от "char *strrev(char *)" только возвращаемым типом
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(574): message : см. объявление "strrev"
+C:\Users\Валентина\Desktop\5\Lab4\Lab4.cpp(648,6): error C2040: strrev: "void (char *)" отличается по уровням косвенного обращения от "char *(char *)"
+C:\Users\Валентина\Desktop\5\Lab4\Lab4.cpp(648,24): error C2491: strrev: определение dllimport функция не разрешено
+C:\Users\Валентина\Desktop\5\Lab4\Lab4.cpp(681,5): error C2065: strrev: необъявленный идентификатор

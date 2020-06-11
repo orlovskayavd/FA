@@ -1,0 +1,4 @@
+﻿  Lab1.cpp
+C:\Users\Валентина\Desktop\Lab1\Lab1\Lab1.cpp(257,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Валентина\Desktop\Lab1\Lab1\Lab1.cpp(101): warning C4716: operator>>: должна возвращать значение
+  Lab1.vcxproj -> C:\Users\Валентина\Desktop\Lab1\Debug\Lab1.exe
