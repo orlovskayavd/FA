@@ -1,0 +1,5 @@
+﻿  Lab2.cpp
+C:\Users\Валентина\Desktop\Lab1\Lab2\Lab2.cpp(184,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Валентина\Desktop\Lab1\Lab2\Lab2.cpp(108): warning C4715: search_oper: значение возвращается не при всех путях выполнения
+C:\Users\Валентина\Desktop\Lab1\Lab2\Lab2.cpp(99): warning C4715: action: значение возвращается не при всех путях выполнения
+  Lab2.vcxproj -> C:\Users\Валентина\Desktop\Lab1\Debug\Lab2.exe

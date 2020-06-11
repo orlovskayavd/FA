@@ -1,0 +1,8 @@
+﻿  Lab1.cpp
+C:\Users\Валентина\Desktop\Lab1\Lab1\Lab1.cpp(87,14): warning C4101: f_array: неиспользованная локальная переменная
+C:\Users\Валентина\Desktop\Lab1\Lab1\Lab1.cpp(146,7): warning C4101: c: неиспользованная локальная переменная
+C:\Users\Валентина\Desktop\Lab1\Lab1\Lab1.cpp(185,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Валентина\Desktop\Lab1\Lab1\Lab1.cpp(249,6): warning C4101: temp: неиспользованная локальная переменная
+C:\Users\Валентина\Desktop\Lab1\Lab1\Lab1.cpp(267,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Валентина\Desktop\Lab1\Lab1\Lab1.cpp(325,33): warning C4804: <: небезопасное использование типа "bool" в операции
+  Lab1.vcxproj -> C:\Users\Валентина\Desktop\Lab1\Debug\Lab1.exe
