@@ -1,0 +1,5 @@
+﻿  Lab9.cpp
+C:\Users\Валентина\Desktop\Lab1\Lab9\Lab9.cpp(22,10): error C2059: синтаксическая ошибка: new
+C:\Users\Валентина\Desktop\Lab1\Lab9\Lab9.cpp(24,6): error C2059: синтаксическая ошибка: =
+C:\Users\Валентина\Desktop\Lab1\Lab9\Lab9.cpp(25,5): error C2059: синтаксическая ошибка: ->
+C:\Users\Валентина\Desktop\Lab1\Lab9\Lab9.cpp(27,13): error C2059: синтаксическая ошибка: )

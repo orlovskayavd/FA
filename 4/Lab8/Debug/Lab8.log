@@ -1,0 +1,19 @@
+﻿  Lab8.cpp
+C:\Users\Валентина\Desktop\Lab1\Lab8\Lab8.cpp(18,8): error C2059: синтаксическая ошибка: new
+C:\Users\Валентина\Desktop\Lab1\Lab8\Lab8.cpp(20,6): error C2059: синтаксическая ошибка: =
+C:\Users\Валентина\Desktop\Lab1\Lab8\Lab8.cpp(21,5): error C2059: синтаксическая ошибка: ->
+C:\Users\Валентина\Desktop\Lab1\Lab8\Lab8.cpp(23,12): error C2059: синтаксическая ошибка: ->
+C:\Users\Валентина\Desktop\Lab1\Lab8\Lab8.cpp(23,32): error C2660: strcpy: функция не принимает 1 аргументов
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : см. объявление "strcpy"
+C:\Users\Валентина\Desktop\Lab1\Lab8\Lab8.cpp(24,5): error C2059: синтаксическая ошибка: ->
+C:\Users\Валентина\Desktop\Lab1\Lab8\Lab8.cpp(25,12): error C2059: синтаксическая ошибка: ->
+C:\Users\Валентина\Desktop\Lab1\Lab8\Lab8.cpp(25,26): error C2660: strcpy: функция не принимает 1 аргументов
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : см. объявление "strcpy"
+C:\Users\Валентина\Desktop\Lab1\Lab8\Lab8.cpp(26,13): error C2059: синтаксическая ошибка: )
+C:\Users\Валентина\Desktop\Lab1\Lab8\Lab8.cpp(40,8): error C2059: синтаксическая ошибка: new
+C:\Users\Валентина\Desktop\Lab1\Lab8\Lab8.cpp(42,6): error C2059: синтаксическая ошибка: =
+C:\Users\Валентина\Desktop\Lab1\Lab8\Lab8.cpp(43,5): error C2059: синтаксическая ошибка: ->
+C:\Users\Валентина\Desktop\Lab1\Lab8\Lab8.cpp(44,12): error C2059: синтаксическая ошибка: ;
+C:\Users\Валентина\Desktop\Lab1\Lab8\Lab8.cpp(129,30): error C2664: "void print_error(int,char *)": невозможно преобразовать аргумент 2 из "const char [11]" в "char *"
+C:\Users\Валентина\Desktop\Lab1\Lab8\Lab8.cpp(129,18): message : При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
+C:\Users\Валентина\Desktop\Lab1\Lab8\Lab8.cpp(116,6): message : см. объявление "print_error"
