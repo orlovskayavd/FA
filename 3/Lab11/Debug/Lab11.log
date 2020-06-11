@@ -1,0 +1,4 @@
+﻿  Lab11.cpp
+C:\Users\Валентина\Desktop\Lab2\Lab11\Lab11.cpp(79): warning C4715: put: значение возвращается не при всех путях выполнения
+C:\Users\Валентина\Desktop\Lab2\Lab11\Lab11.cpp(103): warning C4715: move: значение возвращается не при всех путях выполнения
+  Lab11.vcxproj -> C:\Users\Валентина\Desktop\Lab2\Debug\Lab11.exe

@@ -1,0 +1,18 @@
+READ(B, 1);
+WRITE(B, 2);
+READ(C, 10);
+READ(D, 12);
+READ(E, 10);
+READ(F, 15);
+READ(G, 2);
+WRItE(G, 2);
+A:=A+B;
+F:=C&B;
+H:=D->B;
+L:=Q<-B;
+Y:=L~B;
+Q:=A<>B;
+W:=N+>B;
+R:=D?B;
+R:=Q!B;
+WRITE(A, 2);
