@@ -1,0 +1,7 @@
+123 Moscow Domodedovo 13:20 Kazan airport 15:30
+1234 Moscow Domodedovo 13:20 Piter airport 11:30
+1223 Moscow Domodedovo 14:20 Tyrcia airport 15:30
+56123 Moscow Domodedovo 13:20 Greec airport 13:30
+12364 Moscow Domodedovo 16:20 Kirov airport 15:30
+123FT23 Moscow Domodedovo 17:20 MAI airport 22:30
+1WRTF23 Moscow Domodedovo 01:20 Pipec airport 20:30
