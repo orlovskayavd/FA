@@ -1,0 +1,13 @@
+C:\Users\Валентина\Desktop\Practice\1\6\obj\Debug\netcoreapp3.1\6.AssemblyInfoInputs.cache
+C:\Users\Валентина\Desktop\Practice\1\6\obj\Debug\netcoreapp3.1\6.AssemblyInfo.cs
+C:\Users\Валентина\Desktop\Practice\1\6\obj\Debug\netcoreapp3.1\6.csproj.CoreCompileInputs.cache
+C:\Users\Валентина\Desktop\Practice\1\6\bin\Debug\netcoreapp3.1\6.exe
+C:\Users\Валентина\Desktop\Practice\1\6\bin\Debug\netcoreapp3.1\6.deps.json
+C:\Users\Валентина\Desktop\Practice\1\6\bin\Debug\netcoreapp3.1\6.runtimeconfig.json
+C:\Users\Валентина\Desktop\Practice\1\6\bin\Debug\netcoreapp3.1\6.runtimeconfig.dev.json
+C:\Users\Валентина\Desktop\Practice\1\6\bin\Debug\netcoreapp3.1\6.dll
+C:\Users\Валентина\Desktop\Practice\1\6\bin\Debug\netcoreapp3.1\6.pdb
+C:\Users\Валентина\Desktop\Practice\1\6\obj\Debug\netcoreapp3.1\6.dll
+C:\Users\Валентина\Desktop\Practice\1\6\obj\Debug\netcoreapp3.1\6.pdb
+C:\Users\Валентина\Desktop\Practice\1\6\obj\Debug\netcoreapp3.1\6.genruntimeconfig.cache
+C:\Users\Валентина\Desktop\Practice\1\6\obj\Debug\netcoreapp3.1\6.csprojAssemblyReference.cache
